@@ -1,0 +1,5 @@
+*.py?
+*~
+*.sw?
+saved.txt
+dist
